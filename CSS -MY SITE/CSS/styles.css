@@ -1,6 +1,15 @@
 /********************* TAG SELECTORS ***********************/
 body{
-  background-color: #AE759F;
+  background-color: #E5D0CC;
+  margin: 0;
+}
+div{
+  background-color: #bfacb5;
+  margin-top: 0;
+  
+}
+h1{
+  margin: 0;
 }
 
 
