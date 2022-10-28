@@ -14,18 +14,21 @@ h1{
 .top-container{
   background-color: #bfacb5;
   margin-top: 0;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
 }
 
 .mid-container{
   background-color: #ff0000;
-  height: 100px;
-  margin: 10px;
+  height: 200px;
+  border: 20px;
   width: 100px;
 }
 
 .bottom-container{
   background-color: #00ff00;
-  margin: 10px;
+  border: 10px;
   height: 100px;
   width: 100px;
 }
